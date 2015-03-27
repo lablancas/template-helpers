@@ -4,6 +4,7 @@
 This is a small utility package to provide access to underscore and momentjs functions in your templates
 
 ## Underscore
+Below is a pattern to show you how to use Underscore's union function, but you can also apply the same pattern to the full [Underscore Library](http://underscorejs.org)
 
 Here's the signature for [Underscore union](http://underscorejs.org/#union)
 
@@ -21,6 +22,7 @@ Example usage
 
 
 ## Moment JS
+Below is a pattern to show you how to use MomentJS's format function, but you can also apply the same pattern to the full [MomentJS Library](http://momentjs.com/docs)
 
 Here's the signature for [MomentJS Formatting](http://momentjs.com/docs/#/displaying/format/)
 
